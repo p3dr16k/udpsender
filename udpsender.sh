@@ -9,7 +9,7 @@
 #				  Each line of the specified files becomes a payload for
 #				  a packets.
 #      
-#  REQUIREMENTS:  GNU Netcat, GNU bc
+#  REQUIREMENTS:  GNU Netcat
 #        AUTHOR:  Patrick Facco (facco@csp.it), 
 #       COMPANY:  CSP s.c. a r.l. "Innovazione nelle ICT"
 #       VERSION:  1.0
