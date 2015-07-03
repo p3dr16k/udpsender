@@ -57,7 +57,6 @@ do
 		sleep $INTERVAL
 		let "k++"		
 		let "z=(z+1)%${#rowsasarray[@]}"
-		echo $z
 	done	
 done
 
